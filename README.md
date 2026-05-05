@@ -5,6 +5,8 @@
 This project is a **Deep Learning-based Text Generation System** that predicts the **next word** and can **automatically complete sentences** using an **LSTM (Long Short-Term Memory) model**.
 
 The model learns patterns from text data and generates context-aware predictions based on user input.
+
+---
 https://dl-next-word-prediction-using-lstm-premkumark.streamlit.app/
 ---
 
